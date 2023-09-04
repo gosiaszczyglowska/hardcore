@@ -15,3 +15,6 @@ Miłość zawsze jest - na pewno
 Miłość wszędzie jest - spójrz w ciemność
 Miłość zawsze jest - chodź ze mną
 Nie zostawię cię
+
+
+Second Feature1 commit
